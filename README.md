@@ -2,11 +2,15 @@
 PTML models for cross-coupling reactions catalyzed by nanoparticles
 
 Authors and affiliations:
+
 Andrea Ruiz-Escudero,a,b Sonia Arrasate,c and Humberto González-Díaz,c,d*
 
 a. Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Centre of Information and Communication Technologies, University of A Coruña, Campus Elviña s/n, 15071, A Coruña, Spain.
+
 b. IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
+
 c. Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain.
+
 d. IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
 
 *Correspondence: humberto.gonzalezdiaz@ehu.eus
